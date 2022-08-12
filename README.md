@@ -1,1 +1,2 @@
-# rnwaether
+# RNWeather
+React Native Weather App
